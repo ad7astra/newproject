@@ -1,3 +1,0 @@
-# README 
-
-Demo Maven application
